@@ -1,5 +1,3 @@
-package kr.pe.batang.javaClass.exam;
-
 import java.io.File;
 
 public class CommandCd extends AbstractCommand {
