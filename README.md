@@ -8,7 +8,6 @@
 2. [실행환경](#실행환경)
 3. [프로젝트 설치 및 실행 방법](#프로젝트-설치-및-실행-방법)
 4. [프로젝트 사용 방법](#프로젝트-사용-방법)
-5. [참고 자료](#참고-자료)
 
 ## 프로젝트 설명
 
@@ -28,9 +27,17 @@
 ## 프로젝트 사용 방법
 `AbstractCommand.java` 파일을 실행합니다.
 
-![명령어 rm](https://github.com/github-jademon/CommandLine/assets/79764169/677410ae-e1f5-4e99-b42c-d1f9f68c15cc)
-![명령어 rmdir](https://github.com/github-jademon/CommandLine/assets/79764169/a27edacf-e052-40b0-b199-588747608cca)
-![명령어 cd](https://github.com/github-jademon/CommandLine/assets/79764169/a7c45935-e352-41cd-9475-3463cb0ee99e)
-![명령어 ls](https://github.com/github-jademon/CommandLine/assets/79764169/caef5098-9851-40e9-8134-be1a42b449b6)
+- cd : microsoft windows 운영체제에서 제공되는 cmd의 디렉토리 변경 명령어 기능
+<img src="https://github.com/github-jademon/CommandLine/assets/79764169/a7c45935-e352-41cd-9475-3463cb0ee99e" alt="명령어 cd" width="500" />
+
+- ls : microsoft windows 운영체제에서 제공되는 cmd의 디렉토리 확인 명령어 기능
+<img src="https://github.com/github-jademon/CommandLine/assets/79764169/caef5098-9851-40e9-8134-be1a42b449b6" alt="명령어 ls" width="500" />
+
+- rm : microsoft windows 운영체제에서 제공되는 cmd의 파일 삭제 명령어 기능
+<img src="https://github.com/github-jademon/CommandLine/assets/79764169/677410ae-e1f5-4e99-b42c-d1f9f68c15cc" alt="명령어 rm" width="500" />
+
+- rmdir : microsoft windows 운영체제에서 제공되는 cmd의 디렉토리 삭제 명령어 기능
+<img src="https://github.com/github-jademon/CommandLine/assets/79764169/a27edacf-e052-40b0-b199-588747608cca" alt="명령어 rmdir" width="500" />
+
 
 이 프로젝트에 관한 문의 사항이나 버그 리포트는 [j2python@gmail.com]로 보내주세요.
